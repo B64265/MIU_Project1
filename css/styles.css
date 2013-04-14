@@ -59,3 +59,10 @@ textarea{
 a{
 	color:blue;
 }
+#Search form.center{
+	
+	margin-left:auto;
+	margin-right:auto;
+	width:70%;
+	
+}
